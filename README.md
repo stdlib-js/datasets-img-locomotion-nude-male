@@ -20,7 +20,7 @@ limitations under the License.
 
 # Locomotion
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Forty-eight views of a nude male moving in place.
 
@@ -158,7 +158,7 @@ Digital image courtesy of the Getty's [Open Content Program][getty-open-content]
 
 ## See Also
 
--   [`@stdlib/datasets/img-locomotion-house-cat`][@stdlib/datasets/img-locomotion-house-cat]: twenty-four views of a house cat.
+-   <span class="package-name">[`@stdlib/datasets/img-locomotion-house-cat`][@stdlib/datasets/img-locomotion-house-cat]</span><span class="delimiter">: </span><span class="description">twenty-four views of a house cat.</span>
 
 </section>
 
@@ -204,8 +204,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/datasets-img-locomotion-nude-male/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/datasets-img-locomotion-nude-male?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/datasets-img-locomotion-nude-male.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/datasets-img-locomotion-nude-male/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
