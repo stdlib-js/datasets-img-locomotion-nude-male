@@ -1,0 +1,34 @@
+{
+  "name": "@stdlib/datasets-img-locomotion-nude-male",
+  "version": "0.0.0",
+  "description": "Forty-eight views of a nude male moving in place.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/datasets-img-locomotion-nude-male.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "datasets",
+    "dataset",
+    "data",
+    "image",
+    "img",
+    "human",
+    "man",
+    "male",
+    "locomotion",
+    "moving",
+    "movement"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
