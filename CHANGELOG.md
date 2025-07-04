@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-26)
+## Unreleased (2025-07-04)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`61458d1`](https://github.com/stdlib-js/stdlib/commit/61458d1a4e773dc50972cf82be31a4ad1f143a13) - **style:** adjust spacing _(by Athan Reines)_
 -   [`aba885d`](https://github.com/stdlib-js/stdlib/commit/aba885d26ca59ff74005c624335ba969a95ed922) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
